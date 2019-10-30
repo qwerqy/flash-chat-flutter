@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255266615057",
+    "firebase_url": "https://flash-chat-869f2.firebaseio.com",
+    "project_id": "flash-chat-869f2",
+    "storage_bucket": "flash-chat-869f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255266615057:android:9fb30c1cc7385d224026b0",
+        "android_client_info": {
+          "package_name": "com.aminroslan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255266615057-e42ptf565ag9l2cfkdtrlhfkvcu7itfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArb_GledgRaQZk6Ot6Nybg8YccqXtrWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255266615057-e42ptf565ag9l2cfkdtrlhfkvcu7itfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
